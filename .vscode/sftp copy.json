@@ -1,0 +1,12 @@
+{
+    "name": "My Server",
+    "host": "host29.itelit.pro",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "host29",
+    "password": "45954832",
+    "remotePath": "site/",
+    "uploadOnSave": true,
+    "useTempFile": false,
+    "openSsh": false
+}
